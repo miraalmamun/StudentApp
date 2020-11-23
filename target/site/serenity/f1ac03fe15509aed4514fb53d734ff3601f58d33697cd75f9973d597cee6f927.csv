@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"First serenity test","This is pending test","PENDING","2020-11-23T11:56:31.047-05:00","0.0","0.2"
+"First serenity test","This test should be execute manually","PENDING","2020-11-23T11:56:31.245-05:00","0.0","0.18"
