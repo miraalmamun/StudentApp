@@ -1,0 +1,3 @@
+Understanding different Test outcomes in Serenity BDD
+Creating folder structure hierarchy to generate requirements
+Using @Title annotations to provide meaningful names
